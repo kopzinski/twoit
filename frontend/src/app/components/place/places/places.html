@@ -1,0 +1,25 @@
+<div class="places">
+  <ul class="places-list">
+    <li ng-repeat="place in $ctrl.places">
+        <span>{{ ::place.name }}</span>
+        <button class="btn vote" ng-click="$ctrl.vote(place._id);">Vote!</button>
+      <!-- <contact
+        contact="contact"
+        on-select="$ctrl.goToContact($event);">
+      </contact> -->
+    </li>
+    <li>
+      <input type="text" placeholder="Enter another place" ng-model="$ctrl.newPlaceName" />
+      <button class="btn add" ng-click="$ctrl.add();">Add!</button>
+    </li>
+  </ul>
+  <div class="places__empty"
+    ng-if="!$ctrl.places.length">
+    There's no one here...
+  </div>
+</div>
+
+
+<div class="error">
+    {{ $ctrl.errorMessage }}
+  </div>
