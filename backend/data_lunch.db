@@ -1,0 +1,14 @@
+{"name":"cccccc","password":"123123","type":"USER","_id":"0CAbmKpbTPnPHaIH"}
+{"name":"daniela","password":"123123","type":"USER","_id":"MoOrjFMtwgxxcZci"}
+{"name":"mac donalds","type":"PLACE","votes":[{"userId":"esXzCIPhyOxlNNiq","date":1506012762607},{"userId":"esXzCIPhyOxlNNiq","date":1506012999109},{"userId":"esXzCIPhyOxlNNiq","date":1506013002163},{"userId":"esXzCIPhyOxlNNiq","date":1506013003859},{"userId":"esXzCIPhyOxlNNiq","date":1506013005862},{"userId":"nvlccBemNA8B3Ys5","date":1506013032000}],"_id":"Qf0lAonlbyvZDAlA"}
+{"name":"bbbbbb","password":"123123","type":"USER","_id":"UMJ0OEvpx4TG1pcw"}
+{"name":"mello","password":"123123","type":"USER","_id":"Uc6wspE8pJfI8Lnb"}
+{"name":"burger king","type":"PLACE","votes":[{"userId":"rOMamA02ajF1hm2u","date":1505856731370},{"userId":"pmGYgKatQl2uAcsx","date":1505866603389},{"userId":"Uc6wspE8pJfI8Lnb","date":1505868783180},{"userId":"esXzCIPhyOxlNNiq","date":1505931339461},{"userId":"esXzCIPhyOxlNNiq","date":1506010608541},{"userId":"esXzCIPhyOxlNNiq","date":1506011317796},{"userId":"esXzCIPhyOxlNNiq","date":1506013015364},{"userId":"esXzCIPhyOxlNNiq","date":1506013018794}],"_id":"cvrGQEfAiMHabkwQ"}
+{"name":"whole foods","type":"PLACE","votes":[{"userId":"rOMamA02ajF1hm2u","date":1505853662838},{"userId":"nvlccBemNA8B3Ys5","date":1505933456007},{"userId":"pmGYgKatQl2uAcsx","date":1505939221637}],"_id":"e0DIahirHk3YJRnH"}
+{"name":"paulo","password":"123123","type":"USER","_id":"esXzCIPhyOxlNNiq"}
+{"name":"aaaaaaaaa","password":"123123","type":"USER","_id":"jMU25fCYEv8jyIrw"}
+{"name":"apple biz","type":"PLACE","votes":[{"userId":"pmGYgKatQl2uAcsx","date":1506041788737}],"_id":"jrAQ02qkxYBsP5gC"}
+{"name":"outback","type":"PLACE","votes":[{"userId":"rOMamA02ajF1hm2u","date":1505859161247},{"userId":"pmGYgKatQl2uAcsx","date":1505934123730},{"userId":"esXzCIPhyOxlNNiq","date":1506010602171},{"userId":"esXzCIPhyOxlNNiq","date":1506010939636},{"userId":"esXzCIPhyOxlNNiq","date":1506011308447}],"_id":"l0AuvaGTTZA1ua1i"}
+{"name":"eduardo","password":"123123","type":"USER","_id":"nvlccBemNA8B3Ys5"}
+{"name":"kopzinski","password":"123123","type":"USER","_id":"pmGYgKatQl2uAcsx"}
+{"name":"whole foods","type":"PLACE","votes":[{"userId":"rOMamA02ajF1hm2u","date":1505853662838},{"userId":"nvlccBemNA8B3Ys5","date":1505933456007},{"userId":"pmGYgKatQl2uAcsx","date":1505939221637},{"userId":"pmGYgKatQl2uAcsx","date":1506042147212}],"_id":"e0DIahirHk3YJRnH"}
